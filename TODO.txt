@@ -1,2 +1,4 @@
 Learn web dev basics in 100 days. #100DaysofCode
 Create projects.
+Become more versed with python.
+Learn SQL
